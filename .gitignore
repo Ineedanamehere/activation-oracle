@@ -191,3 +191,7 @@ openai_api_key.txt
 *checkpoints*
 *max_acts*
 *model_lora*
+ao-taboo-*.out
+ao-taboo-*.err
+experiments/taboo_pairwise_eval_results/
+experiments/pairwise_data/
